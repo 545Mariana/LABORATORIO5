@@ -16,6 +16,6 @@ En el archivo output para configurar al menos 10 LEDS debemos cargar el numero e
 
 Para grabar nuestro código en nuestra blue pin debemos ingresar en la terminal "make" que hara que se generen los arvhivos .o .
 Al tener los archivos .o aplicamos el otro comando que es make write que sera el que grabe en nuestra blue pin.
+![Captura desde 2023-05-29 11-51-00](https://github.com/545Mariana/LABORATORIO5/assets/109254012/03d483bc-1e9e-41f9-8e61-7fb871078d13)
 
-![Captura desde 2023-05-26 14-51-52](https://github.com/545Mariana/LABORATORIO5/assets/109254012/f4088cd8-fecc-4ea1-a2cd-2498aa18aeb9)
 
